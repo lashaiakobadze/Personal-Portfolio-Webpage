@@ -10,11 +10,6 @@ li{
   padding-top:5%;
 }
 
-#lasha{
-  text-align:center;
-  padding-bottom:1%;
-}
-
 .sec1{
   background-color:DarkSlateGrey;
   width:100%;
@@ -86,7 +81,7 @@ header ul a:hover{
 }
 
 .margin{
-  margin:  15px;
+  margin: 20px;
 }
 
 #navbar{  
@@ -107,9 +102,6 @@ footer{
   overflow:auto;
 }
 
-footer a{
-  font-size:40px;
-}
 
 footer a:hover{
   color:#FF8C00;
@@ -138,4 +130,13 @@ small{
 footer nav a{
   padding-top:3%;
   padding-left:10%;
+}
+
+footer nav a i{
+  font-size: 40px;
+  padding-top: 5%;
+}
+
+footer small{
+  font-size: 10px;
 }
